@@ -5,9 +5,9 @@ void main()
 {
     float a;
     float b;
-    printf("entr first number:\n");
+    printf("enter 1st number:\n");
     scanf("%f", &a);
-    printf("entr second number\n");
+    printf("enter 2nd number\n");
     scanf("%f", &b);
     int c;
     printf("entr operator (1 for '+',2 for '-',3 for '*',4 for '/')\n");
